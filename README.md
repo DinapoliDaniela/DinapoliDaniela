@@ -11,5 +11,5 @@ Soy QA tester.
 - Database
 - Git
 
-## 👀 You can find me at:
+## 👀 Podes encontrarme en:
 - Linkedin: [DanielaDiNapoli](https://www.linkedin.com/in/daniela-dinapoli/)
