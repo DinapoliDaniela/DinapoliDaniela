@@ -1,16 +1,15 @@
-### Hi there 👋
+# 👋 Hola, soy Daniela Di Napoli
+![My stats](https://github-readme-stats.vercel.app/api?username=tunombredeusuario&count_private=true&show_icons=true&theme=radical)
 
-<!--
-**DinapoliDaniela/DinapoliDaniela** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Soy QA tester.
 
-Here are some ideas to get you started:
+## 💪🏼 Skills
+- Jira
+- Postman
+- Agile methodology
+- Scrum
+- Database
+- Git
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👀 You can find me at:
+- Linkedin: [DanielaDiNapoli](https://www.linkedin.com/in/daniela-dinapoli/)
