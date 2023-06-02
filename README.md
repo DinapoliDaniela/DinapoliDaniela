@@ -1,7 +1,6 @@
+
 # ***Hola! Soy Daniela Di Napoli*** 🤓
-
-
-## Bienvenidos a mi Github! </h3>
+## Bienvenidos a mi Github! 
 
 <img src="https://github.com/DinapoliDaniela/DinapoliDaniela/assets/129632936/a7dffd93-414b-4e1e-b6a4-94be52b26d8b" alt="Markdownify" width="300">
 
