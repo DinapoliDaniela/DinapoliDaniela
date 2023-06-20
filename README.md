@@ -1,4 +1,5 @@
-https://msp.c.yimg.jp/images/v2/FUTi93tXq405grZVGgDqG8mCX3dycQknDtjOmUJ_wLnNjuXcf5JUo5LY_QIxLr0R9AUMvmjN_1rFFZFFZtZQL13VIlRyDY-SiZFONXZDGxHW6je1hEmYp9yDClBD9AkYeEmjSH09dlUo0fuIMby58Fhh7JQtvJEIqQX2NZL6PgjjaVeL15wH3fdP2LkaoAqwiR8iq4CX0FbX4WS8DxfFNIQrn7-BBPdZxN0_UduF9jbDjMkWNhnJ-jbyJEXz2G2-BZX5vmY-ISLvr8L0qfp4nQ==/what_does_qa_stand_for.png?errorImage=false
+![imagen QA](https://github.com/DinapoliDaniela/DinapoliDaniela/assets/129632936/306f4d92-0942-426a-ad17-2456777db0ca)
+
 
 # Hola, Soy Daniela Di Napoli!           
 
