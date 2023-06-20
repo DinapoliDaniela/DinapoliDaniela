@@ -1,6 +1,6 @@
-![1000_F_331682758_k2dzIdzGk2sOyy1bP0Hr7dJE9pQfBt9l](https://github.com/MinaPisarello/MinaPisarello/assets/106481489/82d52fed-2899-4cd7-8cbf-2c4ad5ef952b)
+https://msp.c.yimg.jp/images/v2/FUTi93tXq405grZVGgDqG8mCX3dycQknDtjOmUJ_wLnNjuXcf5JUo5LY_QIxLr0R9AUMvmjN_1rFFZFFZtZQL13VIlRyDY-SiZFONXZDGxHW6je1hEmYp9yDClBD9AkYeEmjSH09dlUo0fuIMby58Fhh7JQtvJEIqQX2NZL6PgjjaVeL15wH3fdP2LkaoAqwiR8iq4CX0FbX4WS8DxfFNIQrn7-BBPdZxN0_UduF9jbDjMkWNhnJ-jbyJEXz2G2-BZX5vmY-ISLvr8L0qfp4nQ==/what_does_qa_stand_for.png?errorImage=false
 
-# Hola, Soy Daniela Di Napoli"            
+# Hola, Soy Daniela Di Napoli!           
 
 ![My stats](https://github-readme-stats.vercel.app/api?username=MinaPisarello&count_private=true&show_icons=true&theme=radical)
 
