@@ -1,26 +1,56 @@
+![1000_F_331682758_k2dzIdzGk2sOyy1bP0Hr7dJE9pQfBt9l](https://github.com/MinaPisarello/MinaPisarello/assets/106481489/82d52fed-2899-4cd7-8cbf-2c4ad5ef952b)
 
-  # ***Hola! Soy Daniela Di Napoli*** 🤓                    
-  ## Bienvenidos a mi Github! 
+# Hola, Soy Daniela Di Napoli"            
 
-<img src="https://github.com/DinapoliDaniela/DinapoliDaniela/assets/129632936/a7dffd93-414b-4e1e-b6a4-94be52b26d8b" alt="Markdownify" width="300">
-
-### Sobre mi ✍️
-
-Soy estudiante de Testing y estoy interesada en la tecnologia.
-Actualmente realizando cursos para aumentar mi conocimiento y desarrollar nuevas habilidades
+![My stats](https://github-readme-stats.vercel.app/api?username=MinaPisarello&count_private=true&show_icons=true&theme=radical)
 
 
-### Cursos realizados 👩‍🎓
-
-1. Bootcamp de Testing.
-2. Curso de trabajo en equipo de Accenture
+## Goal
+I am committed to improve the way we live technology through proposals that generate value. My goal is to take my projects to the maximum, to provide a valuable, usable and responsible product. I am in constant training because I am committed to grow personally and professionally.
 
 
-### Mis trabajos 💪
-
-![Valorant prueba 1](https://github.com/DinapoliDaniela/DinapoliDaniela/assets/129632936/172c9111-4a6a-40ee-837f-6bf0f55c9ea6)
-![trabajo](https://github.com/DinapoliDaniela/DinapoliDaniela/assets/129632936/d09bfaa6-3cda-45c4-a765-bfbe990f794a)
 
 
-### Como contactarme ☎️
-https://www.linkedin.com/in/daniela-dinapoli/
+## Courses
+- QA - MindHub LA BOOTCAMP: PROGRAMA INICIATEC , tu camino al futuro
+- UX Design - Google Career Certificates 
+- Testing Funcional y Accesibilidad Web -  CILSA ONG
+- Desarrollo Web - Coderhouse
+- Diplomatura universitaria en Gestión de la Ciberdefensa - ESGC FFAA - FMC - UNDEF
+
+
+
+## Certifications
+- Introduction to Ciber Crime
+- Cybersecurity at Homeoffice
+- Personal Productivity
+
+## Languages
+- Spanish: Native speaker
+- English: B2+
+
+
+## Skills
+- Agile methodology
+- Jira
+- Postman
+- Scrum
+- Database
+- Git
+- Selenium
+- Jmeter
+
+## Soft Skills
+- Communication
+- Teamwork
+- Problem-solving
+- Critical thinking
+- Decision-making
+- Organizational
+- Adaptability
+- Creativity
+
+
+
+## Contact me
+- Linkedin
