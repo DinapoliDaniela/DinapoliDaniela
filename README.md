@@ -3,35 +3,26 @@
 
 # Hola, Soy Daniela Di Napoli!           
 
-![My stats](https://github-readme-stats.vercel.app/api?username=MinaPisarello&count_private=true&show_icons=true&theme=radical)
+![Dani](https://github.com/DinapoliDaniela/DinapoliDaniela/assets/129632936/085239be-5ca2-4995-8d66-76eb550587e3)
 
 
-## Goal
-I am committed to improve the way we live technology through proposals that generate value. My goal is to take my projects to the maximum, to provide a valuable, usable and responsible product. I am in constant training because I am committed to grow personally and professionally.
+## Objetivos
+
+Mi objetivo es conseguir un puesto en el mundo IT para poder seguir aprendiendo y desarrollando mis habilidades
 
 
-
-
-## Courses
-- QA - MindHub LA BOOTCAMP: PROGRAMA INICIATEC , tu camino al futuro
-- UX Design - Google Career Certificates 
-- Testing Funcional y Accesibilidad Web -  CILSA ONG
-- Desarrollo Web - Coderhouse
-- Diplomatura universitaria en Gestión de la Ciberdefensa - ESGC FFAA - FMC - UNDEF
-
-
-
-## Certifications
-- Introduction to Ciber Crime
-- Cybersecurity at Homeoffice
-- Personal Productivity
-
+## Cursos Realizados
+- QA - MindHub LA BOOTCAMP: PROGRAMA INICIATEC 
+- Diseño UX/UI - Programa Codo a Codo 
+- Curso de Testing - Programa Codo a Codo
+- Curso de testing agil y con herramientas- Argentina Programa
+  
 ## Languages
-- Spanish: Native speaker
-- English: B2+
+- Español, nivel nativo
+- Ingles, nivel B2
 
 
-## Skills
+## Habilidades tecnologicas
 - Agile methodology
 - Jira
 - Postman
@@ -41,17 +32,15 @@ I am committed to improve the way we live technology through proposals that gene
 - Selenium
 - Jmeter
 
-## Soft Skills
-- Communication
-- Teamwork
-- Problem-solving
-- Critical thinking
-- Decision-making
-- Organizational
-- Adaptability
-- Creativity
+## Habilidades blandas
+- Empatia
+- Trabajo en equipo
+- Creativa
+- Pensamiento critico
+- Capacidad de conciliacion
 
 
 
-## Contact me
-- Linkedin
+
+## Contactame!!!
+- Linkedin: https://www.linkedin.com/in/daniela-dinapoli/
