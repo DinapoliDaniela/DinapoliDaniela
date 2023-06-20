@@ -5,7 +5,6 @@
 
 ![Dani](https://github.com/DinapoliDaniela/DinapoliDaniela/assets/129632936/085239be-5ca2-4995-8d66-76eb550587e3)
 
-
 ## Objetivos
 
 Mi objetivo es conseguir un puesto en el mundo IT para poder seguir aprendiendo y desarrollando mis habilidades
